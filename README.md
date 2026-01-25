@@ -2,7 +2,7 @@
 
 # e‑Red: Online Blood Bank Management System
 
-## 📌 Project Overview
+## Project Overview
 **e‑Red** is an online blood bank management system designed to simplify, streamline, and automate the end‑to‑end process of blood transfusion management.  
 It maintains comprehensive records of blood donors, donation history, and blood availability across multiple blood banks.
 
