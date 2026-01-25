@@ -1,25 +1,53 @@
-# E-Red-Blood-Bank-Management
-DETAILED DESCRIPTION OF THE PROJECT:
-e-Red, the online blood bank management system is a database application system whose purpose is to simplify and automate the process of blood transfusion. 
-It provides a clear documentation of the blood donors and its blood donation activities.
-It can search fast the list of possible donors and the available blood types.
-It provides an organised and systematic record system.
-It provides the past blood donation history of the donor.
-It provides an easy to use, efficient and effective system to the users.
+---
 
-Set of authorities given to the admin:
-1.Authority to remove donors
-2.Authority to create new Campaigns
-3.Authority to add new Blood Banks to the database
-The application system also provides the following features to the users:
-1.Allows the users to check where there is availability of a particular blood type .
-2.Allows the user to use his/her location to find the nearest blood banks.
-3.Allows the user to get the real time blood availability.
-4.Allows the user to register for the voluntary donation.
-5. Displays the top blood donors of the year
+# e‑Red: Online Blood Bank Management System
 
-SOFTWARE REQUIREMENTS:
-OPERATING SYSTEM: Windows 7 or higher
-SOURCE CODE EDITOR: VS Code 1.62.3
-DBMS: Oracle 11g Edition
-PROGRAMMING LANGUAGE: PYTHON, SQL
+## 📌 Project Overview
+**e‑Red** is an online blood bank management system designed to simplify, streamline, and automate the end‑to‑end process of blood transfusion management.  
+It maintains comprehensive records of blood donors, donation history, and blood availability across multiple blood banks.
+
+The system ensures:
+- Fast search for potential donors and available blood types  
+- Organized and systematic record‑keeping  
+- Easy access to donor history  
+- A user‑friendly, efficient, and effective interface for all users  
+
+---
+
+## 🔐 Admin Capabilities
+Administrators are granted the following authorities:
+
+- Remove donors from the system  
+- Create and manage new donation campaigns  
+- Add new blood banks to the database  
+
+---
+
+## 🌟 User Features
+The application provides several key features to end users:
+
+- Check availability of specific blood types  
+- Use location services to find the nearest blood banks  
+- View real‑time blood availability  
+- Register for voluntary blood donation  
+- View the top blood donors of the year  
+
+---
+
+## 🛠 Software Requirements
+
+### **Operating System**
+- Windows 7 or higher  
+
+### **Source Code Editor**
+- Visual Studio Code 1.62.3  
+
+### **Database Management System**
+- Oracle 11g Edition  
+
+### **Programming Languages**
+- Python  
+- SQL  
+
+---
+
